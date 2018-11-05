@@ -8,7 +8,7 @@ FILE :
 
 guidance:
 
-1. Put makefile and my_shell in the folder
+1. Put makefile and my_shell in the folderwerwer
 
 2. then use terminal to run the two files
 
